@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635966115092",
+    "project_id": "beesihatest",
+    "storage_bucket": "beesihatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635966115092:android:ce0fc4d6b2c18b7c890601",
+        "android_client_info": {
+          "package_name": "com.beesiha_test.beesiha_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635966115092-2m6rqknu8khqu94a8qd1sdnmkg87a69o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3_r-8K1WYb3a-fNxxd1bLIRQLotsCEGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635966115092-2m6rqknu8khqu94a8qd1sdnmkg87a69o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
